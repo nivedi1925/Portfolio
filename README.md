@@ -20,7 +20,7 @@ Thank you for visiting my portfolio. :blush:
 #
 
 
-### :blush: [Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
+### :blush: [Human Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib|Streamlit
  - Brief overview:  &emsp;This project implements facial emotion detection using the AlexNet Convolutional Neural Network (CNN) architecture. The model is trained on grayscale facial images to classify emotions into seven categories: Anger, Disgust, Fear, Happiness, Neutral, Sadness, and Surprise.
  - Project Link: [GitHub](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/).
