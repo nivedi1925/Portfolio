@@ -47,6 +47,12 @@ Thank you for visiting my portfolio. :blush:
 - Brief overview:  &emsp; The intention of this work was to become familiar with programming in a distributed environment for large datasets. It provided a good understanding of distributed systems, distributed processing, and data partitioning. Databricks Cloud was used for this purpose.
 - Project Link: [GitHub](https://github.com/nivedi1925/Data-processing-Pyspark).
 
+### :bar_chart: [Data Engineering Assessment - ETL.](https://github.com/nivedi1925/Data-Enigineering-Assessment)
+###### Python3|MySql|Docker|Docker-compose
+
+- Brief overview:  &emsp; This  is an end-to-end ETL (Extract, Transform, Load) pipeline built to process, clean, and normalize a real estate property dataset of 10,000 records. It is designed to handle messy categorical data, populate lookup tables, and load the cleaned dataset into a normalized MySQL database.
+- Project Link: [GitHub](https://github.com/nivedi1925/Data-Enigineering-Assessment).
+
 ## :building_construction: :pager: Edge Computing IoT
 
 ### :iphone: [Autodemy - Udemy Offer Aggregator via Telegram.](https://github.com/nivedi1925/Autodemy)
