@@ -3,11 +3,11 @@
 
 Welcome to my evolving portfolio! :seedling: <br>
 
-As my interests grow and adapt with time :timer_clock:, trends :chart_with_upwards_trend: , and the world around me :earth_africa:, this space serves as a canvas :page_with_curl: for sharing ideas :thought_balloon: and their real-world implementations :computer: . Some of these projects are also personal development exercises :footprints: , helping me sharpen my skills and explore new directions :runner: .
+As my interests grow and adapt with time, trends, and the world around me, this space serves as a canvas for sharing ideas and their real-world implementations. Some of these projects are also personal development exercises, helping me sharpen my skills and explore new directions.
 
-Right now, I’m deeply focused on Deep Learning :brain: , Data Engineering :snowflake: , Cloud Computing :cloud_with_snow: , and Edge Computing :gear: .
+Right now, I’m deeply focused on Deep Learning, Data Engineering, Cloud Computing, and Edge Computing.
 
-I'm also excited about exploring diverse areas across the broader spectrum of Software Engineering and their impact on other sectors of society. :desktop_computer: :rocket: :artificial_satellite: :satellite:<br>
+I'm also excited about exploring diverse areas across the broader spectrum of Software Engineering and their impact on other sectors of society.<br>
 
 Thank you for visiting my portfolio. :blush:
 
