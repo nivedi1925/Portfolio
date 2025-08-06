@@ -13,25 +13,25 @@ Thank you for visiting my portfolio. :blush:
 
 ##  Deep Learning
 
-###  1.[Biodegradable-vs-Non-Biodegradable-Waste-Classification using ResNet50.](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification)
+###  [1. Biodegradable-vs-Non-Biodegradable-Waste-Classification using ResNet50.](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib|Streamlit
  - Brief overview:  &emsp;A deep learning project that classifies images of waste into biodegradable and non-biodegradable categories using transfer learning with ResNet50. This is a computer vision project aimed at supporting waste segregation through intelligent image classification.
  - Project Link: [GitHub](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification).
 #
 
 
-###  2.[Human Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
+###  [2. Human Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib|Streamlit
  - Brief overview:  &emsp;This project implements facial emotion detection using the AlexNet Convolutional Neural Network (CNN) architecture. The model is trained on grayscale facial images to classify emotions into seven categories: Anger, Disgust, Fear, Happiness, Neutral, Sadness, and Surprise.
  - Project Link: [GitHub](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/).
 #
-### 3.[Semantic Image Segmentation using U-Net.](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/)
+### [3. Semantic Image Segmentation using U-Net.](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib
   
 - Brief overview:  &emsp; Semantic image segmentation is the task of assigning a class label to each pixel in an image. This project implements a U-Net architecture to segment and classify regions within an image, such as identifying "Car" or "Person" objects through pixel-wise classification.
 - Project Link: [GitHub](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/).
 #
-###  4.[Neural Style Transfer using VGG-19](https://github.com/nivedi1925/Neural-Style-Transfer/)
+###  [4. Neural Style Transfer using VGG-19](https://github.com/nivedi1925/Neural-Style-Transfer/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib
   
 
