@@ -13,25 +13,25 @@ Thank you for visiting my portfolio. :blush:
 
 ##  Deep Learning
 
-###  [Biodegradable-vs-Non-Biodegradable-Waste-Classification using ResNet50.](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification)
+###  1. [Biodegradable-vs-Non-Biodegradable-Waste-Classification using ResNet50.](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib|Streamlit
  - Brief overview:  &emsp;A deep learning project that classifies images of waste into biodegradable and non-biodegradable categories using transfer learning with ResNet50. This is a computer vision project aimed at supporting waste segregation through intelligent image classification.
  - Project Link: [GitHub](https://github.com/nivedi1925/Biodegradable-vs-Non-Biodegradable-Waste-Classification).
 #
 
 
-###  [Human Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
+###  2. [Human Emotion Detection Using AlexNet](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib|Streamlit
  - Brief overview:  &emsp;This project implements facial emotion detection using the AlexNet Convolutional Neural Network (CNN) architecture. The model is trained on grayscale facial images to classify emotions into seven categories: Anger, Disgust, Fear, Happiness, Neutral, Sadness, and Surprise.
  - Project Link: [GitHub](https://github.com/nivedi1925/Emotion-Detection-Using-AlexNet/).
 #
-### [Semantic Image Segmentation using U-Net.](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/)
+### 3. [Semantic Image Segmentation using U-Net.](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib
   
 - Brief overview:  &emsp; Semantic image segmentation is the task of assigning a class label to each pixel in an image. This project implements a U-Net architecture to segment and classify regions within an image, such as identifying "Car" or "Person" objects through pixel-wise classification.
 - Project Link: [GitHub](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/).
 #
-###  [Neural Style Transfer using VGG-19](https://github.com/nivedi1925/Neural-Style-Transfer/)
+###  4. [Neural Style Transfer using VGG-19](https://github.com/nivedi1925/Neural-Style-Transfer/)
 ###### Python3|Tensorflow|Keras|Pandas|Numpy|Matplotlib
   
 
@@ -41,13 +41,13 @@ Thank you for visiting my portfolio. :blush:
 
 ## Data Engineering
 
-###  [Data Processing - PySpark.](https://github.com/nivedi1925/Data-processing-Pyspark)
+###  1. [Data Processing - PySpark.](https://github.com/nivedi1925/Data-processing-Pyspark)
 ###### Python3|PySpark|PySpark-SQL
 
 - Brief overview:  &emsp; The intention of this work was to become familiar with programming in a distributed environment for large datasets. It provided a good understanding of distributed systems, distributed processing, and data partitioning. Databricks Cloud was used for this purpose.
 - Project Link: [GitHub](https://github.com/nivedi1925/Data-processing-Pyspark).
 
-###  [Data Engineering Assessment - ETL.](https://github.com/nivedi1925/Data-Enigineering-Assessment)
+### 2. [Data Engineering Assessment - ETL.](https://github.com/nivedi1925/Data-Enigineering-Assessment)
 ###### Python3|MySql|Docker|Docker-compose
 
 - Brief overview:  &emsp; This  is an end-to-end ETL (Extract, Transform, Load) pipeline built to process, clean, and normalize a real estate property dataset of 10,000 records. It is designed to handle messy categorical data, populate lookup tables, and load the cleaned dataset into a normalized MySQL database.
@@ -55,7 +55,7 @@ Thank you for visiting my portfolio. :blush:
 
 ## Edge Computing IoT
 
-###  [Autodemy - Udemy Offer Aggregator via Telegram.](https://github.com/nivedi1925/Autodemy)
+### 1. [Autodemy - Udemy Offer Aggregator via Telegram.](https://github.com/nivedi1925/Autodemy)
 ###### Python3|SQLite3|Shell scripts|RaspberryPi|Rest API
 
 - Brief overview:   &emsp; This project is an automated script that collects and filters Udemy course offers shared through multiple Telegram channels and bots. Since many of these messages are duplicated or repeated across channels, the script processes and tracks each message to eliminate redundancy. It ensures users receive only unique, up-to-date course coupons, making it easier to discover and enroll in valuable Udemy courses without the noise.
